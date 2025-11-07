@@ -23,7 +23,7 @@ email: zhangxinge5566@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I am passionate about artificial intelligence and am constantly learning and exploring this field. I am dedicated to building AI-related projects and tools, and I hope to share my learning journey, insights, and the latest technological advancements through my personal blog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://zhangcraigxg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ZhangCraigXG
 github_username:  ZhangCraigXG
 
