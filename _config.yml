@@ -28,7 +28,7 @@ twitter_username: ZhangCraigXG
 github_username:  ZhangCraigXG
 
 # Build settings
-theme: cayman
+theme: Minima
 plugins:
   - jekyll-feed
 
