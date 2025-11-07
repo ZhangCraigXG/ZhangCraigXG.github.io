@@ -21,7 +21,6 @@
 title: ZhangCraig BLOG
 email: zhangxinge5566@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  我对人工智能充满热情，并且一直在不断学习和探索这一领域。我致力于构建与人工智能相关的项目和工具，我希望通过个人博客分享我的学习历程、心得体会以及最新的技术进展。
   I am passionate about artificial intelligence and am constantly learning and exploring this field. I am dedicated to building AI-related projects and tools, and I hope to share my learning journey, insights, and the latest technological advancements through my personal blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
