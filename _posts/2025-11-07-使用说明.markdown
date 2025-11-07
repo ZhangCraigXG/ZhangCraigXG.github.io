@@ -1,0 +1,23 @@
+---
+layout: post
+title: "使用说明"
+date: 2025-11-07
+categories: craig update
+---
+
+## 命名规则
+每个 Markdown 文件需要遵循 Jekyll 的命名规则。文件名应该包括日期和博客标题，格式如下：  
+```text
+YEAR-MONTH-DAY-title.md
+```
+
+## 文件结构
+每个 Markdown 文件的开头应该包含一个 YAML Front Matter 部分，用来设置博客的元数据（如标题、日期、标签等）。例如：
+```text
+---
+layout: post
+title: "Welcome to Jekyll"
+date: 2025-11-07
+categories: craig update
+---
+```
